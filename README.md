@@ -1,4 +1,4 @@
-# Tere! Mina olen Andres.
+## Tere! Mina olen Andres.
 
 **Investeeringute analüüs | Finantsturud | Finants- ja ärianalüüs**
 
@@ -21,9 +21,3 @@ Mind huvitavad investeeringute analüüs, finantsturud ning finants- ja ärianal
 - **Andmete integreerimine:** API
 - **Täiendavad huvid:** investeeringute analüüs, finantsturud, finants- ja ärianalüüs
   
-## 📂 Projektid
-- [**DACA Portfoolio**](https://github.com/andres-assukyll/daca-portfolio) - 11-nädalane õppeprojektid
-## 📫 Kontakt
-- **Email:** andres.assukyll@gmail.com
----
-_"Data is the new oil, but analytics is the combustion engine." – Peter Sondergaard_
