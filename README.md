@@ -31,28 +31,29 @@ Valik projekte, milles rakendan andmeanalüüsi, SQL-i, andmete visualiseerimise
 #### 📁 DACA portfoolio
 Andmeanalüütika õpingute käigus valminud projektide ja praktiliste tööde kogumik.
 
-**Tehnoloogiad:** Python · SQL · Power BI · Excel
-
-[Vaata projekti →](https://github.com/andres-assukyll/daca-portfolio)
-
-#### 🗄️ SQL Aggregation
-SQL-päringud ja koondfunktsioonid andmete rühmitamiseks, kokkuvõtete koostamiseks ning analüütiliste küsimuste lahendamiseks.
-
-**Tehnoloogiad:** SQL
-
-[Vaata projekti →](https://github.com/andres-assukyll/daca-portfolio)
-
-#### 🔄 ETL-pipeline
-Andmete väljavõtmise, teisendamise ja laadimise töövoog, mille eesmärk on valmistada andmed ette edasiseks analüüsiks.
-
-**Tehnoloogiad:** Python · SQL · ETL · API
+**Tehnoloogiad:** Python · SQL · Power BI · Github · Supabase
 
 [Vaata projekti →](https://github.com/andres-assukyll/daca-portfolio)
 
 #### 📈 Andmete visualiseerimine
 Andmete esitamine graafilisel kujul, et muuta tulemused arusaadavaks ja aidata märgata olulisi mustreid.
 
-**Tehnoloogiad:** Power BI · Python · Plotly
+**Tehnoloogiad:** Power BI · SQL · Python · Plotly
 
-[Vaata projekti →](https://github.com/andres-assukyll/daca-portfolio)
+[Vaata projekti →](https://github.com/andres-assukyll/daca-portfolio/week-6)
+
+#### 🔄 ETL-pipeline
+Andmete väljavõtmise, teisendamise ja laadimise töövoog, mille eesmärk on valmistada andmed ette edasiseks analüüsiks.
+
+**Tehnoloogiad:** Python · ETL · API
+
+[Vaata projekti →](https://github.com/andres-assukyll/daca-portfolio/week-8)
+
+#### 🧑‍💼 Värbamisjuhend ja hindamistööriistad
+Värbamisjuhendi ja interaktiivsete tööriistade loomine kandidaatide oskuste ning meeskonda sobivuse hindamiseks.
+
+**Tehnoloogiad:** HTML · CSS · JavaScript · Markdown
+
+[Vaata projekti →](https://github.com/andres-assukyll/daca-portfolio/week-9)
+
 
