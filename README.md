@@ -4,7 +4,7 @@
 
 Mind huvitavad investeeringute analüüs, finantsturud ning finants- ja ärianalüüs. **DACA programmis** täiendan oma teadmisi andmeanalüüsis, arendades oskusi **Exceli, Power BI, SQL-i ja Pythoni** kasutamisel andmete töötlemiseks, analüüsimiseks, visualiseerimiseks ja automatiseerimiseks.
 
-## Tööriistad
+## 🛠️  Tööriistad
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -21,10 +21,38 @@ Mind huvitavad investeeringute analüüs, finantsturud ning finants- ja ärianal
 - **Versioonihaldus:** Git, GitHub, VS Code
 - **Andmete integreerimine:** API
 - **Täiendavad huvid:** investeeringute analüüs, finantsturud, finants- ja ärianalüüs
-  
-### Valitud projektid
-- [DACA portfoolio](https://github.com/andres-assukyll/daca-portfolio) <br>
-- [SQL Aggregation](https://github.com/andres-assukyll/daca-portfolio) <br>
-- [ETL-pipeline](https://github.com/andres-assukyll/daca-portfolio) <br>
-- [Visualization](https://github.com/andres-assukyll/daca-portfolio)
+
+---
+
+### 📊 Valitud projektid
+
+Valik projekte, milles rakendan andmeanalüüsi, SQL-i, andmete visualiseerimise ja ärianalüüsi oskusi.
+
+#### 📁 DACA portfoolio
+Andmeanalüütika õpingute käigus valminud projektide ja praktiliste tööde kogumik.
+
+**Tehnoloogiad:** Python · SQL · Power BI · Excel
+
+[Vaata projekti →](https://github.com/andres-assukyll/daca-portfolio)
+
+#### 🗄️ SQL Aggregation
+SQL-päringud ja koondfunktsioonid andmete rühmitamiseks, kokkuvõtete koostamiseks ning analüütiliste küsimuste lahendamiseks.
+
+**Tehnoloogiad:** SQL
+
+[Vaata projekti →](https://github.com/andres-assukyll/daca-portfolio)
+
+#### 🔄 ETL-pipeline
+Andmete väljavõtmise, teisendamise ja laadimise töövoog, mille eesmärk on valmistada andmed ette edasiseks analüüsiks.
+
+**Tehnoloogiad:** Python · SQL · ETL · API
+
+[Vaata projekti →](https://github.com/andres-assukyll/daca-portfolio)
+
+#### 📈 Andmete visualiseerimine
+Andmete esitamine graafilisel kujul, et muuta tulemused arusaadavaks ja aidata märgata olulisi mustreid.
+
+**Tehnoloogiad:** Power BI · Python · Plotly
+
+[Vaata projekti →](https://github.com/andres-assukyll/daca-portfolio)
 
