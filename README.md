@@ -1,6 +1,7 @@
 # Tere! 👋 Mina olen Andres
-## 🎯 Andmeanalüütiku Karjääri Algus
-Õpin hetkel **DACA (Data Analyst Career Accelerator)** programmis ja ehitan oma esimest professionaalset portfooliot.
+
+Mind huvitavad investeeringute analüüs, finantsturud ning finants- ja ärianalüüs. **DACA programmis** täiendan oma teadmisi andmeanalüüsis, arendades oskusi **Exceli, Power BI, SQL-i ja Pythoni** kasutamisel andmete töötlemiseks, analüüsimiseks, visualiseerimiseks ja automatiseerimiseks.
+
 ## 🛠️ Tehnoloogiad, mida õpin
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
