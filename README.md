@@ -1,4 +1,6 @@
-# Tere! 👋 Mina olen Andres
+# Tere! Mina olen Andres.
+
+**Investeeringute analüüs | Finantsturud | Finants- ja ärianalüüs**
 
 Mind huvitavad investeeringute analüüs, finantsturud ning finants- ja ärianalüüs. **DACA programmis** täiendan oma teadmisi andmeanalüüsis, arendades oskusi **Exceli, Power BI, SQL-i ja Pythoni** kasutamisel andmete töötlemiseks, analüüsimiseks, visualiseerimiseks ja automatiseerimiseks.
 
