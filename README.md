@@ -22,5 +22,9 @@ Mind huvitavad investeeringute analüüs, finantsturud ning finants- ja ärianal
 - **Andmete integreerimine:** API
 - **Täiendavad huvid:** investeeringute analüüs, finantsturud, finants- ja ärianalüüs
   
-## Projektid
+### Valitud projektid
+- [DACA portfoolio](https://github.com/andres-assukyll/daca-portfolio) <br>
+- [SQL Aggregation](https://github.com/andres-assukyll/daca-portfolio) <br>
+- [ETL-ipeline](https://github.com/andres-assukyll/daca-portfolio) <br>
+- [Visualization](https://github.com/andres-assukyll/daca-portfolio)
 
